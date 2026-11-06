@@ -1,7 +1,7 @@
 # 5 DAKİKA: EV — Otonom Robot ve Yerel LLM Destekli Korku / Kaçış Oyunu
 
 **Ders:** Yazılım Geliştirme Laboratuvarı-I — Proje 1
-**Ekip:** ABUBAKAR IANDIEV 231307137, _Ad Soyad (Öğrenci No)_
+**Ekip:** ABUBAKAR IANDIEV 231307137, Sukhryenchin buyanorshikh 231307134
 **Tarih:** Kasım 2026
 **Motor:** Unity 6 (6000.6) · C# · URP **Yerel LLM:** Ollama + `llama3.2:3b`
 
